@@ -5,7 +5,7 @@
 ## Приложение для совершения аудио/видео звонков с помощью [WebRTC](https://webrtcforthecurious.com/)
 
 
-![gif](https://github.com/AnastasiyaMAV/FlowProject/blob/client/main/src/assets/web-space-room.gif)
+![gif](https://github.com/AnastasiyaMAV/WebSpaceRoom/blob/main/client/src/assets/web-space-room.gif)
 
 
 #### Запуск приложения:
