@@ -1,0 +1,43 @@
+body {
+  background: #87CEFA;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.video-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-content: center;
+  margin-left: 15rem;
+}
+
+.video {
+  width: 400px;
+}
+
+.cards-container {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 5rem;
+}
+
+.button {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.caller {
+  text-align: center;
+  color: black;
+}
+
+.title {
+  color: #FA8072;
+}
